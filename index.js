@@ -11,6 +11,7 @@ const fetch = require('node-fetch')//  add new object - node-fetch за да м�
 const app = express();
 const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`listennig at ${port}!!!`));
+
 app.use(express.static('public'));
 
 //****************next post data to server***********************
