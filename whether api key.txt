@@ -1,0 +1,19 @@
+https://www.weatherapi.com/confirm.aspx?code=4926d9c1-8b6b-486f-b381-786f735b19cb    - weatherapi.com
+
+
+
+c1667871e49c43d897092639213010   - weather api Key
+
+
+http://api.weatherapi.com/v1/current.json?key=c1667871e49c43d897092639213010&q=London&aqi=yes
+
+---//Using lat, lon  - next
+http://api.weatherapi.com/v1/current.json?key=c1667871e49c43d897092639213010&q=48.8567,2.3508&aqi=yes
+
+
+Air Quality api
+https://openaq.medium.com/accessing-a-playground-of-air-quality-data-124ebd27ec8a
+
+
+https://api.openaq.org/v1/latest  - all data 
+
